@@ -1,0 +1,22 @@
+# 编译输出
+target/
+
+# IDE/编辑器特定的文件和目录
+.vscode/
+.idea/
+
+# 依赖管理器生成的文件和目录
+Cargo.lock
+Cargo.toml.orig
+
+# 构建工具生成的文件和目录
+build/
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+
+# 临时/备份文件
+*.swp
+*~
